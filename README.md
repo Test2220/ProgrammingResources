@@ -17,3 +17,5 @@ https://limelightvision.io/pages/downloads
 https://github.com/frc-web-components/frc-web-components/releases
 
 https://docs.revrobotics.com/rev-hardware-client/
+
+https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html
