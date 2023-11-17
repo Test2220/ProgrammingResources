@@ -13,6 +13,7 @@ https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#479
 https://apps.microsoft.com/detail/phoenix-tuner/9NVV4PWDW27Z?hl=en-us&gl=US
 
 https://limelightvision.io/pages/downloads
+remember to download usb drivers on windows computers
 
 https://github.com/frc-web-components/frc-web-components/releases
 
