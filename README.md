@@ -16,6 +16,10 @@
 
 [Pheonix Tuner](https://apps.microsoft.com/detail/phoenix-tuner/9NVV4PWDW27Z?hl=en-us&gl=US)
 
+[Light Status Ref](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
+
+[To-Do List](https://docs.google.com/document/d/1zeIecu9gfEifEPt5Ft1kPzqOP82YJtvPvXNJWOJ3Prg/edit)
+
 **remember to download usb drivers on windows computers before limelight downloads**
 [Limelight Downloads](https://limelightvision.io/pages/downloads)
 
