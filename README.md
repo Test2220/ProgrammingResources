@@ -6,7 +6,7 @@
 
 [WPiLib Releases Downloads](https://github.com/wpilibsuite/allwpilib/releases) 
 
-[Json url for project creation](https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2023-latest.json)
+[Json url for project creation](https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json)
 
 [NAVX Json URL](https://dev.studica.com/releases/2023/NavX.json)
 
